@@ -1,8 +1,3 @@
-Below is a **production-quality README.md** tailored for an Image Recognition / Computer Vision ML project.
-You can copy this directly into your `README.md`.
-
----
-
 # Image Recognition System
 
 A deep learning–based Image Recognition system designed to classify and detect objects from input images using modern computer vision techniques. This project demonstrates end-to-end ML workflow including data preprocessing, model training, evaluation, and inference.
@@ -167,18 +162,4 @@ Adarsh Thakur
 Machine Learning & Computer Vision Enthusiast
 GitHub: [https://github.com/Adarshthakur-850](https://github.com/Adarshthakur-850)
 
----
-
-## 📄 License
-
-This project is for educational and research purposes.
-
----
-
-If you want, I can also:
-
-* Make a more advanced **research-style README**
-* Create a **portfolio-optimized README with visuals**
-* Add **badges (build status, Python version, license)**
-* Create a **Docker-ready version**
 * Align it exactly with your actual code structure (share file list if needed)**
