@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Image Recognition (CNN)
 
 A Convolutional Neural Network (CNN) trained on CIFAR-10 to classify images into 10 categories (airplane, car, bird, cat, etc.).
@@ -32,3 +33,7 @@ from src.inference import load_trained_model, predict_image
 model = load_trained_model()
 predict_image(model, "path/to/image.jpg", class_names)
 ```
+=======
+# Image-Recognition
+ml project
+>>>>>>> d3b4e92561e807c2ab6dbbc22168f4cbd1f64d9c
